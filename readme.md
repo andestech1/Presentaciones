@@ -1,4 +1,4 @@
-# 🎤 Andes Tech Talks
+# 🎤 Andes Tech
 
 Repositorio de charlas, workshops y material compartido en los eventos de **Andes Tech**.
 
