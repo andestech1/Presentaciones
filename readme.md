@@ -23,12 +23,44 @@ Las charlas abarcan distintas áreas de tecnología:
 - Blockchain & Web3
 - Seguridad Informática
 
-## 🤝 ¿Querés aportar?
-Si diste una charla en Andes Tech o querés compartir material:
+## 📥 Cómo subir tu charla (Paso a paso)
 
-1. Fork del repo
-2. Subí tu contenido en una carpeta con tu nombre o charla
-3. Abrí un Pull Request
+Si participaste en un evento de Andes Tech y querés compartir tu material, seguí estos pasos:
+
+# 1. Hacé un fork del repositorio
+
+Entrá a este repo y hacé clic en el botón Fork (arriba a la derecha).
+
+# 2. Cloná tu fork en tu máquina
+git clone https://github.com/TU-USUARIO/andestech-talks.git
+cd andestech-talks
+# 3. Creá una carpeta para tu charla
+
+Dentro del repo, creá una carpeta con un nombre descriptivo:
+
+mkdir -p charlas/2026-03-devcafe-nombre-charla
+
+Ejemplo:
+
+charlas/2026-03-devcafe-llm-101/
+# 4. Subí tu contenido
+
+Dentro de esa carpeta podés agregar:
+
+Slides (PDF, PPT, etc.)
+Código fuente
+Archivos de ejemplo
+Un README.md explicando la charla
+
+# 5. Agregá y commiteá los cambios
+git add .
+git commit -m "Agrega charla: nombre de la charla"
+# 6. Subí los cambios a tu repositorio
+git push origin main
+# 7. Creá un Pull Request
+Andá a tu repositorio en GitHub
+Hacé clic en “Compare & pull request”
+Enviá el PR al repo original de Andes Tech
 
 ## 📅 Eventos
 Organizamos encuentros de forma regular:
