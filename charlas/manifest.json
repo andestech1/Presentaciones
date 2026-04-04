@@ -1,0 +1,66 @@
+{
+  "charlas": [
+    {
+      "id": "intro-llm",
+      "titulo": "Introducción a LLMs",
+      "descripcion": "Charla introductoria sobre cómo funcionan los Large Language Models",
+      "fecha": "2026-04-04",
+      "evento": "devcafe",
+      "speaker": "Tu nombre",
+      "duracion": "45 min",
+      "tags": ["AI", "LLM", "Machine Learning"],
+      "tieneSlides": true,
+      "tieneCodigo": true
+    },
+    {
+      "id": "redes-basicas",
+      "titulo": "Redes Básicas para Desarrolladores",
+      "descripcion": "Overview de conceptos de redes: TCP/IP, DNS, HTTP",
+      "fecha": "2026-03-20",
+      "evento": "birras",
+      "speaker": "Tu nombre",
+      "duracion": "60 min",
+      "tags": ["Redes", "Backend", "Infraestructura"],
+      "tieneSlides": true,
+      "tieneCodigo": false
+    },
+    {
+      "id": "react-hooks",
+      "titulo": "React Hooks Avanzados",
+      "descripcion": "Workshop práctico sobre hooks avanzados y hooks personalizados",
+      "fecha": "2026-02-15",
+      "evento": "workshop",
+      "speaker": "Tu nombre",
+      "duracion": "90 min",
+      "tags": ["React", "Frontend", "JavaScript"],
+      "tieneSlides": false,
+      "tieneCodigo": true
+    }
+  ],
+  "eventos": {
+    "devcafe": {
+      "nombre": "DevCafé",
+      "descripcion": "Encuentros de desarrollo de software",
+      "emoji": "☕",
+      "color": "#ff6b35"
+    },
+    "birras": {
+      "nombre": "Birras",
+      "descripcion": "Infraestructura y redes",
+      "emoji": "🍻",
+      "color": "#00d9ff"
+    },
+    "workshop": {
+      "nombre": "Workshop",
+      "descripcion": "Hands-on y capacitación",
+      "emoji": "💻",
+      "color": "#a855f7"
+    },
+    "blockchain": {
+      "nombre": "Blockchain",
+      "descripcion": "Web3 y crypto",
+      "emoji": "⛓️",
+      "color": "#22c55e"
+    }
+  }
+}
