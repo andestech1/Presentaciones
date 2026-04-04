@@ -1,19 +1,8 @@
-# Workshop: Introduccion a redes y telecomunicaciones 
-
-## Información General
-
-- Introduccion a redes y telecomunicaciones
-- **Fecha:** 28 de Febrero, 2026
-- **Evento:** Workshop
-- **Speaker:** Lautaro Celedon
-- **Duración:** 90 min (hands-on)
-
-## Descripción
-
-Workshop práctico sobre redes y telecomunicaciones 
-
-## Requisitos
-
-- PC
-- Conocimiento básicos en informatica
-
+---
+titulo: "Introduccion a redes y telecomunicaciones"
+fecha: "2026-02-28"
+evento: "workshop"  # opciones: devcafe, birras, workshop, blockchain, legal
+speaker: "Lautaro Celedon"
+duracion: "45 min"
+tags: ["redes","telecomunicaciones"]
+---
