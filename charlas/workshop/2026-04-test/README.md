@@ -2,7 +2,7 @@
 
 ## Información General
 
-- **Tema:** Introduccion a redes y telecomunicaciones
+- **Titulo:** Introduccion a redes y telecomunicaciones
 - **Fecha:** 28 de Febrero, 2026
 - **Evento:** Workshop
 - **Speaker:** Lautaro Celedon
