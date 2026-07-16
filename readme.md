@@ -7,7 +7,8 @@ Repositorio de charlas, workshops y material compartido en los eventos de Andes 
 ## Sobre Andes Tech
 
 Andes Tech es una comunidad tecnológica de Mendoza que organiza encuentros, charlas y eventos para conectar profesionales, estudiantes y empresas del ecosistema tech.
-
+* Web: https://andestech.xyz
+* Comunidad: Mendoza, Argentina
 ---
 
 ## Contenido
