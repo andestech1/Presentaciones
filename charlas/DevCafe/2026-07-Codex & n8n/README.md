@@ -114,4 +114,4 @@ Recuerden que me puede escribir si necesitan ayuda: @nachokhan(_github_) o @nach
 
 ## NOTA:
 - N8n sacó su MCP oficial y skills oficiales, las cuales intuyo -y espero!- que andan muy bien, pero como no las probé y no las usé, no las pongo acá.
-
+.
